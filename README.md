@@ -9,4 +9,4 @@ This is a simple website showcasing links to pages of food recipes from Studio G
 Recipes referenced from:
     - https://terribletriocreations.tumblr.com/post/149036225744/rice-porridge-from-princess-mononoke-about-2-years
     - https://www.youtube.com/watch?v=gTZffjrTR1M
-    - lihttps://www.nhk.or.jp/dwc/recipes/detail/17.html
+    - https://www.nhk.or.jp/dwc/recipes/detail/17.html
