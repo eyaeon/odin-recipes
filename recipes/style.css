@@ -1,0 +1,33 @@
+.title,
+.desc {
+    text-align: center;
+}
+
+.heading.title {
+    font-size: 32px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading {
+    font-size: 22px;
+}
+
+.heading p {
+    font-size: 12px;
+}
+
+.body {
+    margin: auto 12%;
+}
+
+.body .section {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
